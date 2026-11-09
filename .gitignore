@@ -1,0 +1,11 @@
+# Secrets: each device has its own
+.env
+
+# Per-device virtual environment
+venv/
+.venv/
+
+# Runtime
+logs/
+__pycache__/
+*.pyc
